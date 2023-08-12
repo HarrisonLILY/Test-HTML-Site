@@ -1,5 +1,3 @@
-Here is a possible readme.md file for your project:
-
 # HTML Test Site
 
 This is a simple HTML test site that features a story about a lion wearing a cowboy hat and a tutu. The story is written in plain text and formatted with HTML tags. The site also includes some basic CSS styling and a favicon.
