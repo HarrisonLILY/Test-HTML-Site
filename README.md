@@ -34,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Feedback
 
-If you have any feedback or suggestions for this project, please feel free to contact me at example@example.com. I would love to hear from you!
+If you have any feedback or suggestions for this project, please feel free to contact me on [affLIFT](https://afflift.rocks/r/afflift) I would love to hear from you!
