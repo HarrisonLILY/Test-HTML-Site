@@ -12,6 +12,8 @@ To run the site, follow these steps:
 2. Open the index.html file in your web browser.
 3. Enjoy the story!
 
+You can always upload to your favourite web host and view on there too.
+
 ## How to edit the site
 
 To edit the site, you need to have a text editor. You can use any text editor of your choice, but I recommend using Visual Studio Code for the best experience.
