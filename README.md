@@ -1,4 +1,4 @@
-# HTML Test Site
+# Test HTML Site
 
 This is a simple HTML test site that features a story about a lion wearing a cowboy hat and a tutu. The story is written in plain text and formatted with HTML tags. The site also includes some basic CSS styling and a favicon.
 
@@ -26,7 +26,7 @@ To edit the site, follow these steps:
 
 ## Credits
 
-Too many to mention all here, but pop over to [affLIFT and join the fun](https://afflift.rocks/r/afflift).
+None really but why not over to [affLIFT and join the fun](https://afflift.rocks/r/afflift) and join the fun.
 
 ## License
 
