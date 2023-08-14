@@ -24,6 +24,12 @@ To edit the site, follow these steps:
 2. Make any changes you want to the story or the styling.
 3. Save the file and refresh your web browser to see the changes.
 
+## Live Site
+
+You can view this Test HTML Site here:
+
+https://test-html-site-seven.vercel.app/
+
 ## Credits
 
 None really but why not over to [affLIFT and join the fun](https://afflift.rocks/r/afflift) and join the fun.
